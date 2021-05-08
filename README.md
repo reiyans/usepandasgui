@@ -1,0 +1,2 @@
+# usepandasgui
+PyShimpleGUIでファイル指定することで、PandasGUIを使い易くしました。
